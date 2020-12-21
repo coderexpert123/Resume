@@ -12,7 +12,8 @@ This Project is a Simple ReactJS Project which demonstrates the following
 The project Template can be used to build bigger projects
 
 ## Live Application URL
-
+Step 1.open cmd and type  npm install
+step 2 open cmd and type npm start
 ### https://aditya-sridhar.github.io/simple-reactjs-app
 This URL has the application deployed in
 
